@@ -1,0 +1,5 @@
+line-bot-sdk
+flask
+beautifulsoup4==4.4.0
+lxml
+html5lib==1.0b8
